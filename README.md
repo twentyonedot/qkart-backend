@@ -53,3 +53,7 @@ Project Structure
 │   └── index.js
 └── package.json
 ```
+### 🔥 Features
+1. User can view the products, even without logged in.
+2. User have the ability to add products to the cart, once logged in.
+3. Registered users can place the orders by checking out the cart to the address provided by the users.
