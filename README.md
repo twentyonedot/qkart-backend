@@ -1,6 +1,6 @@
 # qkart-backend
 
-
+## QKart is an full fledged ecommerce website where one can view products, ability to add products to cart once logged in, and can checkout the cart.
 Project Structure
 
 ```zsh
