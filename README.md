@@ -57,7 +57,7 @@ Project Structure
 1. User can view the products, even without logged in, and can search the inventory using the search bar.
 2. User have the ability to add products to the cart, once logged in.
 3. Registered users can place the orders by checking out the cart to the address provided by the users.
-4. Used JWT for authentication, so that user's data is always secured. 
+4. Used JWT for authentication, to make sure the user's data is more secured. 
 
 ### 🔌  APIs provided by qkart
 Endpoint | Method 
