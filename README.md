@@ -3,7 +3,7 @@
 
 Project Structure
 
-```zsh
+```bash
 .
 ├── package.json
 └── src
