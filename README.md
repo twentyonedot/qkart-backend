@@ -4,7 +4,7 @@
 Project Structure
 
 ```zsh
-  .
+.
 ├── package.json
 └── src
     ├── app.js
