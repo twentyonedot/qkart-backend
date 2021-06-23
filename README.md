@@ -54,6 +54,6 @@ Project Structure
 └── package.json
 ```
 ### 🔥 Features
-1. User can view the products, even without logged in.
+1. User can view the products, even without logged in, and can search the inventory using the search bar.
 2. User have the ability to add products to the cart, once logged in.
 3. Registered users can place the orders by checking out the cart to the address provided by the users.
