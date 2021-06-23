@@ -58,3 +58,18 @@ Project Structure
 2. User have the ability to add products to the cart, once logged in.
 3. Registered users can place the orders by checking out the cart to the address provided by the users.
 4. Used JWT for authentication, so that user's data is always secured. 
+
+### 🔌  APIs provided by qkart
+Endpoint | Method 
+------------ | -------------
+/users/:userId | GET
+/users/:id?q=address | GET
+/users/:id | PUT
+/auth/login | POST
+/auth/register | POST
+/products/ | GET
+/products/:productId | POST
+/cart/ | GET
+/cart/ | POST
+/cart/ | PUT
+/cart/checkout | PUT
